@@ -1,0 +1,16 @@
+date: 18 Sep 2022
+time: 12:29:35 UTC
+waf_version: owasp/modsecurity-crs@sha256:c42ea41a35633a1095fc1d4e75c800424b370ce0da8b328c04ec48229be693c2
+web_server_version: httpd@sha256:71e882df50adc606c57e46e5deb3c933288e2c7775472a639326d9e4e40a47c2
+nuclei_templates_version: v9.1.9
+cves_tested: 47
+blocks: 34
+non_blocks: 13
+partial_blocks: 0
+cve_id: null
+directory: null
+format: csv
+full_report: true
+out_file: ssrfReport.csv
+tag: ssrf
+waf_url: null
